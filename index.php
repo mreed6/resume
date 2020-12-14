@@ -608,7 +608,7 @@
             <div class="eight columns">
 
                <!-- form -->
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form action="./inc/sendEmail.php" method="post" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -632,10 +632,10 @@
                   </div>
 
                   <div>
-                     <form action="./inc/sendEmail.php" method="post"><button type="submit" class="submit">Submit</button>
+                     <button type="submit" class="submit">Submit</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif">
-                     </span></form>
+                     </span>
                   </div>
 
 					</fieldset>
