@@ -358,26 +358,26 @@ ul#nav li.current a { color: #F06000; }
 
 .mysql {
     width: 79%;
-    -moz-animation: jquery 2s ease;
-    -webkit-animation: jquery 2s ease;
+    -moz-animation: mysql 2s ease;
+    -webkit-animation: mysql 2s ease;
 }
 
 .phpmy {
     width: 89%;
-    -moz-animation: jquery 2s ease;
-    -webkit-animation: jquery 2s ease;
+    -moz-animation: phpmy 2s ease;
+    -webkit-animation: phpmy 2s ease;
 }
 
 .csharp {
     width: 94%;
-    -moz-animation: jquery 2s ease;
-    -webkit-animation: jquery 2s ease;
+    -moz-animation: csharp 2s ease;
+    -webkit-animation: csharp 2s ease;
 }
 
 .java {
     width: 68%;
-    -moz-animation: jquery 2s ease;
-    -webkit-animation: jquery 2s ease;
+    -moz-animation: java 2s ease;
+    -webkit-animation: java 2s ease;
 }
 
 @-moz-keyframes photoshop {
